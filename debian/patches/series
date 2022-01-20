@@ -9,6 +9,7 @@ gdbm-import.diff
 link-opt.diff
 setup-modules.diff
 bdist-wininst-notfound.diff
+profiled-build.diff
 langpack-gettext.diff
 disable-sem-check.diff
 lib-argparse.diff
@@ -20,9 +21,16 @@ test-no-random-order.diff
 multiarch-extname.diff
 tempfile-minimal.diff
 disable-some-tests.diff
+ensurepip-wheels.diff
+ensurepip-disabled.diff
 mangle-fstack-protector.diff
 reproducible-buildinfo.diff
 pydoc-use-pager.diff
+local-doc-references.diff
+doc-build-texinfo.diff
 build-math-object.diff
 argparse-no-shutil.diff
-0033-sysconfigdata-name.patch
+arm-alignment.diff
+sysconfigdata-name.diff
+hurd_kfreebsd_thread_native_id.diff
+newer-libmpdec.patch
